@@ -41,19 +41,40 @@ A, B, C, ...
 
 # 🙋‍♂️ 스터디 소개
 
-### 1️⃣ 스터디 첫번째 주제입니다!
+### 1️⃣ 스터디 첫시간은 OT 입니다!
 
-**핵심 주제**를 여기에서 설명해주세요.
 
 ### 2️⃣ 스터디 두번째 주제입니다!
 
-두 번째에 대한 설명을 여기에 적어주세요.
+ **서버 기초**
 
-**핵심 주제**에 도 이렇게 Highlight 해서 설명해주세요.
+### 3️⃣ 스터디 세번째 주제입니다!
 
-### 3️⃣ 스터디 첫번째 주제입니다!
+ **AWS + EC2 서비스 이해(+GCP)**
 
-세 번째 까지 있다면, **핵심 주제**를 여기에서 설명해주세요.
+### 4️⃣ 스터디 네번째 주제입니다!
+
+ **데이터베이스**
+
+### 5️⃣ 스터디 다섯번째 주제입니다!
+
+ **API 이론**
+
+### 6️⃣ 스터디 다섯번째 주제입니다!
+
+ **API 실제 개발1**
+
+### 7️⃣ 스터디 다섯번째 주제입니다!
+
+ **API 실제 개발2**
+
+### 8️⃣ 스터디 다섯번째 주제입니다!
+
+ **API + 인증(소셜로그인 + JWT 토큰)**
+
+### 9️⃣ 스터디 다섯번째 주제입니다!
+
+ **미정 - 프론트와 프로젝트 진행**
 
 <br>
 <br>
@@ -76,19 +97,10 @@ A, B, C, ...
 
 <br>
 
-## 📃 Languages / Libraries
+## 📃 Languages / Libraries 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-```bash
-# 스터디별로 맞는 icon 넣으시면 됩니다.
-```
 
 <br>
 <br>
