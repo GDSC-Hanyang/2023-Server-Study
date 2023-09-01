@@ -100,6 +100,7 @@ A, B, C, ...
 ## 📃 Languages / Libraries 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
 <br>
@@ -111,7 +112,7 @@ A, B, C, ...
 ```bash
 # 이하 내용은 예시입니다. 실제로 정해지면 수정할 계획입니다.
 
-|-- DeepLearning-Study
+|-- Server-Study-Basic
     |
     |-- Week 1
     |       |-- Presentation
