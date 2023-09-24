@@ -21,13 +21,15 @@
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
    - 수행한 화면 혹은 내용을 작성해 주세요
-   AWS에서 Root 사용자에서 IAM으로 바꾸고 역할을 부여한다음에 , EC2 생성하는 것 까진 쉬웠다. 
+   AWS에서 Root 사용자에서 IAM으로 바꾸고 역할을 부여하기
+   그 후 EC2 생성하는 것 까진 쉬웠다. 
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
    1.chmod 400 파일이름.pem  => 자기만 읽을 수 있도록 함
-   2.ssh -i "key.pem" ubuntu~~~   = > key value를 통해 ubuntu에서 외부 ec2에 접속하는것 같음.
+   2.ssh -i "key.pem" ubuntu~~~
+     => key value를 통해 ubuntu에서 외부 ec2에 접속하는것 같음.
    
 
 <br/>
