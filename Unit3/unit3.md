@@ -90,7 +90,48 @@
 * 이런 문제가 발생함...
   <img width="674" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/2d379646-7ecc-4516-89d0-fc901cd17aa2">
 
+  <pre>
+    <code>
+            server{
+              root /var/www/html/test;
+              index index.html index.htm index.nginx-debian.html index.php test.html test.php;
+      
+              server_name test.dodosae.shop;
+      
+              location ~\.php$ {
+                      include snippets/fastcgi-php.conf;
+                      fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
+              }
+      
+              location /  {
+                      # First attempt to serve request as file, then
+                      # as directory, then fall back to displaying a 404.
+                      try_files $uri $uri/ =404;
+              }
+      }
+      
+      server{
+              root /var/www/html/dev;
+              index index.html index.html index.nginx-debian.html dev.html;
+      
+              server_name dev.dodosae.shop;
+      
+              location ~\.php$ {
+                      include snippets/fastcgi-php.conf;
+                      fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
+              }
+      
+              location / {
+                      try_files $uri $uri/ =404;
+              }
+      }
+    </code>
+  </pre>
 
+* 이번에는 이 문제...
+  <img width="485" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/2fa2cd38-d6f2-44e1-82d7-f6253c82362c">
+
+  
 
 <br/>
 
