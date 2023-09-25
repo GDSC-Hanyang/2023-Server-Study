@@ -38,7 +38,14 @@
   -> 해결법: $ netstat -anp | grep 80
   <img width="743" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/d1aed14e-ff64-471d-b58d-c6dd0a576f44">
   현재 실행중인 tcp/80을 종료시켜줌
-
+* NginX 문제를 해결하고 다음과 같은 문제가 또 발생...
+* <pre>
+  <code>
+    port 22: Operation timed out
+  </code>
+</pre>
+  
+  
 
 <br/>
 
