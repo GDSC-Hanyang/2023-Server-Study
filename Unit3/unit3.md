@@ -14,23 +14,29 @@
 ## ❗️ notion에 키워드 정리 완료 여부
 내가 notion에 키워드를 정리를 완료한 경우 체크표시 해주세요~
 
-- [ ] 키워드 정리 완료
+- [x] 키워드 정리 완료
 
 <br>
 
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
    - 수행한 화면 혹은 내용을 작성해 주세요
+   <img width="1170" alt="GDSC3주차과제1" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/1989bb81-9ad0-427b-a007-6337d44da888">
 
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="606" alt="GDSC3주차과제2" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/3ceda88a-1146-4450-98a7-11f2382b20e4">
+
+
 
 <br/>
 
 3. Nginx 패키지 설치 후 http 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+ <img width="854" alt="GDSC3주차과제3" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/b6c42529-27dc-4814-a35f-ff3d736540f8">
+
 
 <br/>
 
