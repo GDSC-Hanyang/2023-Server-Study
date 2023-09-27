@@ -57,7 +57,8 @@
 
 7. Redirection 적용 (IP to Domain)
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="1001" alt="스크린샷 2023-09-27 오후 11 58 56" src="https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/d9ee0399-3f31-4c08-8130-9e4fb2cd9d00">
 
 <br/>
 
-<img width="1001" alt="스크린샷 2023-09-27 오후 11 58 56" src="https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/d9ee0399-3f31-4c08-8130-9e4fb2cd9d00">
+6번과 7번은 코드를 썼지만 도메인 연결이 안된다고 하는데 어떤 문제인지 아직 파악이 안돼서 되는대로 다시 업로드하겠습니다..
