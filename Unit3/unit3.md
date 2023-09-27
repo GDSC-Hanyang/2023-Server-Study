@@ -31,7 +31,7 @@
 <br/>
 
 3. Nginx 패키지 설치 후 http 외부 접속
-   - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="561" alt="스크린샷 2023-09-27 오후 6 24 56" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/87316705/f93b4040-4e36-4864-849f-fea37fce8e1c">
 
 <br/>
 
