@@ -36,12 +36,9 @@
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
-   - 수행한 화면 혹은 내용을 작성해 주세요
-
-<br/>
-
-5. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
-   - 수행한 화면 혹은 내용을 작성해 주세요
+- 가비아 도메인 구입후, route 53 을 통해 ec2와 연결
+<img width="302" alt="image" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/77712822/173927ba-505d-4fe6-a4f3-502c95eff11e">
+<img width="295" alt="image" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/77712822/e3a9e1b0-8ec7-4337-a152-abe7b05cb33e">
 
 <br/>
 
