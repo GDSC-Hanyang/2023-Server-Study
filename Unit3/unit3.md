@@ -45,11 +45,13 @@
 
 5. Let's Encrypt 를 이용해 HTTPS 적용
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="1012" alt="스크린샷 2023-09-27 오후 11 59 35" src="https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/d43a9283-c899-42cd-a012-c6fe7d8aafe6">
 
 <br/>
 
 6. Sub Domain 적용 (test)
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="695" alt="스크린샷 2023-09-27 오후 11 58 26" src="https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/7c64de9c-6701-429e-bfb7-332ae89caca8">
 
 <br/>
 
@@ -58,3 +60,4 @@
 
 <br/>
 
+<img width="1001" alt="스크린샷 2023-09-27 오후 11 58 56" src="https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/d9ee0399-3f31-4c08-8130-9e4fb2cd9d00">
