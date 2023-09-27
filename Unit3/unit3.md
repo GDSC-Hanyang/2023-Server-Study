@@ -1,4 +1,4 @@
-### ⭐️ 3주차 과제 제출 ⭐️
+![7C523002-F9D2-403B-A860-E5FD7ACD3117_1_105_c](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/87316705/4ba33d4f-f171-4fcb-99ae-e2db262db05a)### ⭐️ 3주차 과제 제출 ⭐️
 
 ## ❗️ 강의 수강 여부
 수강한 강의에 체크표시 해주세요~
@@ -21,11 +21,13 @@
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="1145" alt="스크린샷 2023-09-27 오후 5 02 40" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/87316705/741ba78a-1c45-49b4-82e0-410264eedf64">
 
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="178" alt="스크린샷 2023-09-27 오후 5 02 23" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/87316705/66f30f61-0338-408a-ad57-b6da549d2041">
 
 <br/>
 
