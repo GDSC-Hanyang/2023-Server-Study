@@ -33,7 +33,8 @@
 
 3. Nginx 패키지 설치 후 http 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
-
+   - 이번주 과제를 세션 전까지 하지 못할 것 같아서 관련 자료를 찾아 읽어보았습니다.
+   - https://velog.io/@jkijki12/%EB%B0%B0%ED%8F%AC-Aws-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90-Nginx-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
