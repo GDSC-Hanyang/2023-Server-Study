@@ -27,7 +27,7 @@
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
-<img width="178" alt="스크린샷 2023-09-27 오후 5 02 23" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/87316705/66f30f61-0338-408a-ad57-b6da549d2041">
+
 
 <br/>
 
