@@ -1,4 +1,4 @@
-![7C523002-F9D2-403B-A860-E5FD7ACD3117_1_105_c](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/87316705/4ba33d4f-f171-4fcb-99ae-e2db262db05a)### ⭐️ 3주차 과제 제출 ⭐️
+### ⭐️ 3주차 과제 제출 ⭐️
 
 ## ❗️ 강의 수강 여부
 수강한 강의에 체크표시 해주세요~
