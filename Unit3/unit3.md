@@ -46,9 +46,10 @@
 
 <br/>
 
-5. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
+5. Let's Encrypt 를 이용해 HTTPS 적용
    - 수행한 화면 혹은 내용을 작성해 주세요
-<img width="811" alt="GDSC3주차과제4" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/44d8b6c5-ff96-437b-af29-660bad475965">
+<img width="571" alt="GDSC3주차과제5(1)" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/6bd5afab-5b84-4d63-bac3-93d7e2309748">
+<img width="1084" alt="GDSC3주차과제5(2)" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/d2c6c1b4-c685-4a52-83c6-111b06d7ef91">
 
 
 <br/>
@@ -60,6 +61,7 @@
 
 7. Redirection 적용 (IP to Domain)
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="723" alt="GDSC3주차과제7" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/b4633009-b4af-4fb5-b8c7-28a23a4a2e6f">
 
 <br/>
 
