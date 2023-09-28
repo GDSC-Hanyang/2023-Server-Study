@@ -42,11 +42,14 @@
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="811" alt="GDSC3주차과제4" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/78d807a6-8766-4916-85c8-3b44cdfd7a7c">
 
 <br/>
 
 5. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
    - 수행한 화면 혹은 내용을 작성해 주세요
+<img width="811" alt="GDSC3주차과제4" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/118713353/44d8b6c5-ff96-437b-af29-660bad475965">
+
 
 <br/>
 
