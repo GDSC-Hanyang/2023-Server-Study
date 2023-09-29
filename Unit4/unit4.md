@@ -20,10 +20,26 @@
 1. 관계형 데이터베이스 이론적으로 이해하기
    - 간단히 여러분이 공부한 내용을 적어주세요.
 
+아래 내용은 https://jie0025.tistory.com/112 블로그 내용을 따라쓰면서 공부하는 용도로 작성  
+
+ER 모델 (Entity Relationship)  
+세상의 사물 개체(Entity)간의 관계(Relationship)로 표현한다.
+
+ER 다이어그램  
+
+ER 모델을 표준화된 그림으로 나타낸 것  
+<img width="596" alt="ERD 요소 예시 " src="https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/d8fa7238-9e3a-45ae-a7c9-abe844633562">
+
+개체(Entity)  
+-
+
 <br/>
+
 
 2. 원하는 서비스(당근마켓, 인스타그램 등) 분석하기
    - 원하는 서비스를 하나 타겟팅 후 페이지 4장가량을 선정하고 (캡쳐본 올리기) 데이터베이스에 들어갈 내용을 적어주세요.
+
+
 
 <br/>
 
