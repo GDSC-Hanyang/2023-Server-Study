@@ -21,21 +21,27 @@
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
    - 수행한 화면 혹은 내용을 작성해 주세요
+ ![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/7048483d-f4cf-474e-84b7-853e1d8f043c)
+![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/1df4b9c6-d77d-4ff1-8628-dbdd42d3f6c8)
 
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+     ![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/cf8fd098-a824-42ea-b6f1-8e0d0219d83e)
+
 
 <br/>
 
 3. Nginx 패키지 설치 후 http 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+   - 며칠 내내 찾아보면서 해결하려고 노력했는데 도저히 모르겠습니다...ㅜㅜ 죄송합니다..ㅠㅠ
 
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
    - 수행한 화면 혹은 내용을 작성해 주세요
+     
 
 <br/>
 
