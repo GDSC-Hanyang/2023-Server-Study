@@ -131,6 +131,10 @@
 * 이번에는 이 문제...
   <img width="485" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/2fa2cd38-d6f2-44e1-82d7-f6253c82362c">
 
+## 원인을 찾았다!!
+정말 어이가 없었지만 서브 도메인 주소의 ' . '을 ' , '과 혼동해서 사용한 것이 원인이었다!
+<img width="1512" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/15b09be7-f611-4ede-8776-359b44338a3c">
+
   
 
 <br/>
