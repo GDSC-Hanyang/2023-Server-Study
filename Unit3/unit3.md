@@ -35,18 +35,23 @@
 
 3. Nginx 패키지 설치 후 http 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
-   - 며칠 내내 찾아보면서 해결하려고 노력했는데 도저히 모르겠습니다...ㅜㅜ 죄송합니다..ㅠㅠ
+   ![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/6aaae29f-0e4f-4b76-91de-8b1461173a00)
+
 
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
    - 수행한 화면 혹은 내용을 작성해 주세요
-     
+     ![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/ac1d61d3-8775-4844-8a27-3cec4660d8ae)
+
 
 <br/>
 
-5. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
+5. Let's Encrypt 를 이용해 HTTPS 적용
    - 수행한 화면 혹은 내용을 작성해 주세요
+![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/450cfcdb-c295-4042-ad9b-b2d1f21120a4)
+![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/a6dfebd4-4169-43ca-8ef2-3d1809421d87)
+
 
 <br/>
 
