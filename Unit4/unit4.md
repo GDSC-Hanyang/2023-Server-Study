@@ -53,12 +53,81 @@
 <br/>
 
 2. 원하는 서비스(당근마켓, 인스타그램 등) 분석하기
-   - 원하는 서비스를 하나 타겟팅 후 페이지 4장가량을 선정하고 (캡쳐본 올리기) 데이터베이스에 들어갈 내용을 적어주세요.
+    <aside>
+🛠 1번
+
+</aside>
+
+<img width="909" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/8cd6bb92-560e-4cc2-ac90-8e628b26a3d1">
+
+
+- User
+    - UserID
+    - nickName
+    - UserName
+    - Password
+    - profile_img
+
+<aside>
+🛠 2번
+
+</aside>
+
+<img width="552" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/cf70fa23-3147-4b8b-bc5b-b099300ba0aa">
+
+
+- DM
+    - nickName
+    - content
+    - sendedAt
+    - reciev닉edBy
+    - profile_img
+    - img
+    - mic
+    - heartedBy
+
+<aside>
+🛠 3번
+
+</aside>
+
+<img width="770" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/aa21274a-7760-41a8-80f5-c1312aa01135">
+
+
+- profile
+    - nickName
+    - profile_img
+    - img
+    - status
+    - stored
+    - post_no
+    - follower_no
+    - following_no
+    - highlight
+
+<aside>
+🛠 4번
+
+</aside>
+
+<img width="768" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/b8a853e3-4b34-4df9-bcfd-98e4f1f22779">
+
+
+- Post
+    - nickName
+    - title
+    - content
+    - hashtag
+    - createdAt
+    - createdBy
+    - modifiedAt
+    - modifiedBy
 
 <br/>
 
 3. ERD 설계하기
-   - 2번에서 진행한 내용을 바탕으로 직적 ERD 제작 툴을 사용해 작성해봅시다. (완성 후 캡쳐본 올리기)
+    <img width="1025" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/27def5bf-7aeb-4db7-985b-856abec0c61e">
+
 
 <br/>
 
