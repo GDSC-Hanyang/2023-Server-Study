@@ -20,8 +20,6 @@
 1. 관계형 데이터베이스 이론적으로 이해하기
 - 관계형 데이터베이스(relational database): 테이블(table)로 이루어져 있으며, 이 테이블은 키(key)와 값(value)값의 관계를 나타낸다. 이처럼 데이터의 종속성을 관계로 표현하는 데이터베이스를 관계형 데이터 베이스라고 한다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb4deb81-0874-4547-9eb5-45b60ea99423/e871e67d-12bc-4f8b-b462-01f401e0198a/Untitled.png)
-    
     - 특징
         1. 데이터의 분류,정렬,탐색 속도가 빠르다.
         2. 신뢰성이 높고 항상 무결성을 보장한다.
