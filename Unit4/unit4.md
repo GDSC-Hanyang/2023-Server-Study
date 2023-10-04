@@ -128,6 +128,10 @@
 3. ERD 설계하기
     <img width="1025" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/27def5bf-7aeb-4db7-985b-856abec0c61e">
 
+- 참고
+  - [https://velog.io/@doohyunlm/DB-ERD-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B6%94%EC%B2%9C-%ED%88%B4](https://velog.io/@doohyunlm/DB-ERD-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B6%94%EC%B2%9C-%ED%88%B4)
+  - [https://mslilsunshine.tistory.com/164](https://mslilsunshine.tistory.com/164)
+  - [https://inpa.tistory.com/entry/ERD-CLOUD-%E2%98%81%EF%B8%8F-ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-%EA%B7%B8%EB%A0%A4%EB%B3%B4%EC%9E%90](https://inpa.tistory.com/entry/ERD-CLOUD-%E2%98%81%EF%B8%8F-ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-%EA%B7%B8%EB%A0%A4%EB%B3%B4%EC%9E%90)
 
 <br/>
 
