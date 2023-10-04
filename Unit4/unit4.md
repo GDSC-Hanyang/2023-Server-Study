@@ -18,7 +18,39 @@
 
 ## ❗️ 3주차 과제
 1. 관계형 데이터베이스 이론적으로 이해하기
-   - 간단히 여러분이 공부한 내용을 적어주세요.
+- 관계형 데이터베이스(relational database): 테이블(table)로 이루어져 있으며, 이 테이블은 키(key)와 값(value)값의 관계를 나타낸다. 이처럼 데이터의 종속성을 관계로 표현하는 데이터베이스를 관계형 데이터 베이스라고 한다.
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb4deb81-0874-4547-9eb5-45b60ea99423/e871e67d-12bc-4f8b-b462-01f401e0198a/Untitled.png)
+    
+    - 특징
+        1. 데이터의 분류,정렬,탐색 속도가 빠르다.
+        2. 신뢰성이 높고 항상 무결성을 보장한다.
+        3. 기존에 작성된 스키마 수정이 어렵다.
+        4. 데이터베이스 부하 분석이 어렵다.
+    - 용어
+        1. 열(column): 각각의 열에는 유일한 이름이 있으며 자신만의 타입이 있다.
+        다른 말로 필드(field) 또는 속성(attribute)라고도 불린다.
+        2. 행(row): 관계된 데이터의 묶음을 의미한다. 한 테이블의 모든 행은 같은 수의 열을 갖는다.
+        다른 말로 튜플(tuple) 또는 레코드(record)라고도 불린다.
+        3. 값(value): 값은 항상 열의 타입에 맞는 값이어야 한다.
+        4. 키(key): 테이블에서 행의 식별자로 이용되는 열을 키(key) 또는 기본 키(primary key)라고 한다.
+        즉, 각 행을 고유하게 식별할 수 있는 열 또는 열 속성을 가진 후보 키(candidate key) 중에서 db 설계자가 지정한 속성을 의미한다.
+        5. 관계(relationship): 테이블 간의 관계는 관계를 맺는 테이블의 수에 따라 다음과 같이 나눈다.
+            1. 일대일
+            2. 일대다
+            3. 다대다
+            
+            <img width="452" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/6e793aa0-596b-4d3b-9214-00d92728176f">
+
+            
+        6. 스키마(schema): 데이터베이스라고도 부르며 디자인을 위한 청사진이라고 생각하면 된다. 단순히 테이블의 각 열에 대한 항목과 타입뿐만 아니라 기본 키와 외래 키도 나타내어야 한다.
+    
+    ```SQL
+    Reservation(ID, Name, Date, RoomNum)
+    ```
+    
+    <img width="393" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/ce9f9cdb-d995-4790-af47-f4042954a9a8">
+
 
 <br/>
 
