@@ -100,13 +100,21 @@ ER 모델을 표준화된 그림으로 나타낸 것
 
 2. 원하는 서비스(당근마켓, 인스타그램 등) 분석하기
    - 원하는 서비스를 하나 타겟팅 후 페이지 4장가량을 선정하고 (캡쳐본 올리기) 데이터베이스에 들어갈 내용을 적어주세요.
+![KakaoTalk_20231005_024356102](https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/34d23c04-8021-40dd-ac5c-ff36049d3eee)
+![KakaoTalk_20231005_023847122](https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/1e13f3d1-5777-4df8-804e-a23e05e97a02)
+![KakaoTalk_20231005_023847122_01](https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/de449b7c-82a0-4dc0-9dd5-ebf928032858)
+***
+위 세 사진을 바탕으로 
 
-
+![KakaoTalk_20231005_024137703](https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/68cb3870-0afb-4cb0-af9b-42588272d056)  
+를 한 번 그려보았당.
 
 <br/>
 
 3. ERD 설계하기
    - 2번에서 진행한 내용을 바탕으로 직적 ERD 제작 툴을 사용해 작성해봅시다. (완성 후 캡쳐본 올리기)
+![ERD 스타벅스](https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/6b555216-735c-4db8-84fe-b1604fa0ed89)
+
 
 <br/>
 
@@ -115,5 +123,8 @@ ER 모델을 표준화된 그림으로 나타낸 것
 
 <br/>
 
+ +++
+ 생각보다 ERD 개념도 많고 , 다이어그램 그리기 전에는 막막했는데 
+ 내용 정리를 하고 , 표 그리면서 연결하는 과정이 재밌었당.
 
 
