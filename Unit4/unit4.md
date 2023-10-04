@@ -136,7 +136,8 @@
 <br/>
 
 4. AWS RDS 구축하기
-   - ERD를 바탕으로 내가 기존에 만들어둔 AWS에서 RDS를 만들어 봅시다. (완성 후 캡쳐본 올리기)
+    <img width="1112" alt="image" src="https://github.com/Dororo99/2023-Server-Study/assets/136609617/35d356aa-cf61-47cb-a428-685fa7eafa1f">
+
 
 <br/>
 
