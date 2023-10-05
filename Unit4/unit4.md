@@ -58,6 +58,53 @@ ex) MySQL / Oracle / Maria-DB 등
 ![IMG_2066](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/3437c0cc-8dba-4bb4-8663-b3f822598528)
 ![IMG_2067](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/5f8f910c-a3c0-463b-8fef-3f19f06fef54)
 
+(1) user
+- user_id
+- user_pwd
+- user_nickname
+- profile image
+- user_email
+- user_name
+- user_phonenum
+- user_rank
+- user_address
+
+(2) order
+- order_id
+- price
+- amount
+- order date
+- status
+- delivery request
+- purchase
+- delivery address
+- phone number
+- name
+
+(3) product
+- product_name
+- price
+- product_image
+- views
+- sales amount
+- brand
+- gender
+- product_info
+- stars
+- comments
+- season
+- likes
+- released info
+- delivery info
+
+(4) comment
+- comment_id
+- content
+- brightness
+- colorsense
+- thickness
+- comment date
+- review image
 
 <br/>
 
