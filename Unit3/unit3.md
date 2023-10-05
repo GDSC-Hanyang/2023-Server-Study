@@ -20,17 +20,20 @@
 
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
+   
    ![Assignment 1](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/c948512f-1cdd-4c67-9ff1-95cc2d14aca0)
 
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
+
    ![Assignment 2](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/caee0f6b-cec3-4ced-be88-a4d54850135e)
 
 
 <br/>
 
 3. Nginx 패키지 설치 후 http 외부 접속
+
    ![Assignment 3](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/d0903f66-0539-46bb-90f2-7360e408ad95)
 
    https://king-ja.tistory.com/100
@@ -39,17 +42,18 @@
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
+   
    ![Assignment 4](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/0d1d77c3-bada-47e4-9ede-a0c531800f86)
 
    https://developer-ping9.tistory.com/320
    - ec2와 도메인을 연결할 때 유용하게 참고하였습니다.
-   
-    순서 : 1. 가비아에서 yeonjin.shop 도메인 구매 ( 550원..!! )
-          2. aws Route 53 호스팅 영역 생성
-          3. Route 53 생성한 도메인의 레코드 생성
-          4. 가비아에서 구매한 도메인의 네임서버 aws에 나와있는 주소들로 변경
-          5. nslookup yeonjin.shop ( 도메인 이름 ) 으로 ip 잘 연결 됐는지 확인
-          6. nslookup -type=ns yeonjin.shop 으로 네임서버 ( = ns )가 제대로 변경되었는지 확인 ( 네임서버 변경 적용 완료가 터미널로 확인 되기 전에도 yeonjin.shop으로 제대로 접속은 되더라구요. 추측으로는 실제 변경 된 것보다 변경되었다 !! 라고 공식적으로 뜨는게 더 오래걸리는 것 같습니다 )
+
+   1. 가비아에서 yeonjin.shop 도메인 구매 ( 550원..!! )
+   2. aws Route 53 호스팅 영역 생성
+   3. Route 53 생성한 도메인의 레코드 생성
+   4. 가비아에서 구매한 도메인의 네임서버 aws에 나와있는 주소들로 변경
+   5. nslookup yeonjin.shop ( 도메인 이름 ) 으로 ip 잘 연결 됐는지 확인
+   6. nslookup -type=ns yeonjin.shop 으로 네임서버 ( = ns )가 제대로 변경되었는지 확인 ( 네임서버 변경 적용 완료가 터미널로 확인 되기 전에도 yeonjin.shop으로 제대로 접속은 되더라구요. 추측으로는 실제 변경 된 것보다 변경되었다 !! 라고 공식적으로 뜨는게 더 오래걸리는 것 같습니다 )
 
 
    *어려움을 겪었던 부분 : 순서 1번과 2번을 반대로 수행해서.. 도메인과 ec2가 제대로 연결이 안되서 접속이 안되는 뭔가 이상한 오류가 발생했습니다. 정말 감사한 정범 선배님 조언덕에!!!! 생성했던 Route 53을 삭제하고, 새로 호스팅 영역과 레코드 생성 후 다시 시도해보니 해결할 수 있었습니다 ! 
@@ -57,6 +61,7 @@
 <br/>
 
 5. Let's Encrypt 를 이용해 HTTPS 적용
+   
    ![Assignmet 5](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/f51c4544-6627-4e06-97b6-5ad52f1bf2d8)
 
    https://velog.io/@sanbonai06/Lets-encrypt로-HTTPS-연결
@@ -66,6 +71,7 @@
 <br/>
 
 6. Sub Domain 적용 (test)
+   
    ![Assignment 6](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/82b2d78c-f8b9-4129-b45b-8014cf7cb21b)
 
    https://vividswan.tistory.com/entry/Sub-Domain-Redirection-적용
@@ -76,9 +82,18 @@
    ![DNS 레코드 설정](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/99fa35f6-8165-4663-8dc2-f562d3ad0a6c)
    이건 제 DNS 레코드 설정창입니다..!!
 
+   *문제 해결 ! ( TTL 때문이 아니었습니다 )
+   - 가비아 DNS 설정에서 레코드 설정도 제대로 하고 /etc/nginx/sites-available/default에서 server 내용도 맞게 추가해주었는데도 서브 도메인이 접속되지 않았었습니다. 알고보니 문제는 Route 53에 있었습니다. 가비아에서 서브 도메인으로 추가 한 것들을 Route 53에서 레코드 생성으로 추가를 해주었어야 합니다.
+   - https://hello-gg.tistory.com/47
+   - 위의 티스토리가 정말 큰 도움이 되었습니다. Route 53에서 www.yeonjin.shop 레코드와 test.yeonjin.shop 레코드를 추가하여 문제를 해결하였습니다.
+  
+   ![Route53 레코드 추가](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/4d5dcb84-2f3b-4f33-9be7-df1e7cd8b13b)
+
+
 <br/>
 
 7. Redirection 적용 (IP to Domain)
+   
    ![Assignment 7_IP](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/f7224c56-3529-4092-9657-7a256bfa9713)
    ![Assignment 7_Domain](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/29294511-c5e4-49d2-8e4e-49e3e2a503cc)
 
@@ -88,7 +103,9 @@
 
    sudo vim /etc/nginx/sites-available/default
    여기에 접속해서,
+   
    ![Assignment 7_server 내용 추가](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/d0241d7d-c4b6-4d15-9f52-25bd158d9233)
+   
    다음과 같이 추가했습니다. ip로 접속하거나, http로 yeonjin.shop에 접속할 때 https://yeonjin.shop으로 변경하도록 작성하였습니다.
 
 
