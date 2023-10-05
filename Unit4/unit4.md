@@ -69,7 +69,7 @@ ex) MySQL / Oracle / Maria-DB 등
 
 4. AWS RDS 구축하기
    - ERD를 바탕으로 내가 기존에 만들어둔 AWS에서 RDS를 만들어 봅시다. (완성 후 캡쳐본 올리기)
-![1](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/f562c183-6315-4638-aa92-142f4d78b410)
+<img width="569" alt="스크린샷 2023-10-05 오후 1 13 20" src="https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/be8f3b0d-3721-4857-8e58-d12acc04375d">
 
 <br/>
 
