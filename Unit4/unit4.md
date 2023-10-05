@@ -53,6 +53,11 @@ ex) MySQL / Oracle / Maria-DB 등
 
 2. 원하는 서비스(당근마켓, 인스타그램 등) 분석하기
    - 원하는 서비스를 하나 타겟팅 후 페이지 4장가량을 선정하고 (캡쳐본 올리기) 데이터베이스에 들어갈 내용을 적어주세요.
+   ![IMG_2062](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/8b9fed65-97de-4902-98be-bf9f0d5b4f4a)
+![IMG_2065](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/d888ab31-89d7-40e5-a254-c084abf85ad2)
+![IMG_2066](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/3437c0cc-8dba-4bb4-8663-b3f822598528)
+![IMG_2067](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/5f8f910c-a3c0-463b-8fef-3f19f06fef54)
+
 
 <br/>
 
@@ -64,6 +69,7 @@ ex) MySQL / Oracle / Maria-DB 등
 
 4. AWS RDS 구축하기
    - ERD를 바탕으로 내가 기존에 만들어둔 AWS에서 RDS를 만들어 봅시다. (완성 후 캡쳐본 올리기)
+![1](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/f562c183-6315-4638-aa92-142f4d78b410)
 
 <br/>
 
