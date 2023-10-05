@@ -47,7 +47,10 @@
 
 4. AWS RDS 구축하기
    - ERD를 바탕으로 내가 기존에 만들어둔 AWS에서 RDS를 만들어 봅시다. (완성 후 캡쳐본 올리기)
-시간 부족으로 시간안에 도저히 못할 것 같습니다ㅠ 내일 새벽 중으로 올리겠습니다!
+     ![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/092a2499-ab82-4984-8597-361d98068c3f)
+
+![image](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/108799923/5a96d83b-18b0-496b-b7f1-ac291dc1096e)
+계속 같은 곳에서 syntax error가 뜨는데 이유를 모르겠습니다. rds와 aws 연결에는 성공했습니다!
      
 
 <br/>
