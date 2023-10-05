@@ -110,7 +110,8 @@ ex) MySQL / Oracle / Maria-DB 등
 
 3. ERD 설계하기
    - 2번에서 진행한 내용을 바탕으로 직적 ERD 제작 툴을 사용해 작성해봅시다. (완성 후 캡쳐본 올리기)
-![무신사 _erd (2)](https://github.com/dbtjgus6988/2023-Server-Study/assets/144633320/218c034e-2284-4d1b-92ea-140ea859ab1c)
+![무신사 _erd (3)](https://github.com/GDSC-Hanyang/2023-Server-Study/assets/144633320/16cbc17d-2075-4d32-abfa-2463415a779e)
+
 
 
 <br/>
