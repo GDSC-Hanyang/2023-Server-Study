@@ -45,6 +45,7 @@
    어려움을 겪은 부분 2: userId에 AUTO_INCREMENT 설정을 해 주었더니 ( 한 유저 생성될 때마다 자동으로 id 1씩 올라가면 좋기 때문 ), Table이 CREATE 되지 않았다. 에러메시지에 AUTO_INCREMENT 되는 것은 Primary key여야 하고, auto column은 한개여야 한다고 되어있었는데 둘 다 만족을 하는데도 생성이 되지 않았다.
 
    해결 방법 :
+
    ![스크린샷 2023-11-02 06 44 31](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/0ec863a2-530a-4891-b6ad-1cd117e8bf71)
    
    ![스크린샷 2023-11-02 06 46 16](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/1fdf1a1b-71c1-46f2-8fd3-690f0efdeb56)
