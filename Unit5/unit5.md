@@ -28,9 +28,11 @@
    -> 그렇다면 root에서 database를 생성하고, 그 database에 대한 모든 권한을 jooyj0529에게 설정해 주면 어떨까?
   
    2. root 사용자로 mysql 로그인하여 database db_test 생성 & 제대로 생성되었는지 확인
+
       ![스크린샷 2023-11-02 06 32 29](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/6f4cd2dc-7e00-42c1-b730-5e3dd272de70)
 
    3. root 사용자에서 GRANT 이용해서 joyj0529에게 db_test에 대한 모든 권한을 부여하고, FLUSH 이용해 변경사항 저장 & 제대로 저장되었는지 확인
+      
       ![스크린샷 2023-11-02 06 34 56](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/eeb42d28-c48b-418d-9dbc-71f7f347ac67)
 
    4. 해결완료! 이제 jooyj0529로 로그인하여 db_test에 table을 생성하고 삭제할 수 있다.
@@ -44,7 +46,9 @@
 
    해결 방법 :
    ![스크린샷 2023-11-02 06 44 31](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/0ec863a2-530a-4891-b6ad-1cd117e8bf71)
+   
    ![스크린샷 2023-11-02 06 46 16](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/1fdf1a1b-71c1-46f2-8fd3-690f0efdeb56)
+
 
    Export한 Query를 살펴보니, 위와같이 Table을 CREATE 한 뒤 밑에서 Primary key를 설정해주고 있었다.
    -> CREATE 할 때 AUTO_INCREMENT 되는 것이 primary key가 아니라서 문제가 발생하므로, CREATE 내부에서 userId를 primary key로 지정해주자.
@@ -58,6 +62,7 @@
 <br/>
 
 2. 데이터그립을 통해서 RDS에 접근하기
+   
    ![스크린샷 2023-11-02 03 48 51](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/47210491-4553-4830-9d11-cda350f54f35)
 
    어려움을 겪은 부분 : Host를 RDS의 endpoint로 설정하고, 보안그룹 인바인드 규칙도 추가하고, User와 password도 문제가 없었는데 계속 Communication failure이 일어났다 ( 혹시 몰라 password도 바꿔보았는데 효과 X ).
@@ -88,11 +93,13 @@
 
    3. UserId = 1을 팔로우하는 사람들의 이름은 뭘까? 를 확인해보자
       - USER table과 FOLLWER table을 JOIN 해보기
+        
         ![스크린샷 2023-11-02 06 08 53](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/0ebe8f04-1038-425c-a8ea-cabe621fb4a8)
         
         from USER as U라고 쓴 것은 줄임말을 생성한 것이다. USER의 userId 값을 지칭하고 싶으면 U.userId로 표현 가능하다. JOIN 해보니 userId = 1을 팔로우하는 사람들의 이름을 알기 위해선 F.userId = 1 이고 F.userId = U.userId로 조건을 걸어줘야겠다는 생각이 들었다.
 
       - 이름을 가져오겠다고 선언하고, WHERE 사용해 조건 걸기
+        
         ![스크린샷 2023-11-02 06 09 31](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/dcff10f9-1a38-41f6-945f-d9aff27d34c8)
 
         select U.name으로 이름이 궁금하다고 선언하고, WHERE을 사용해 조건을 걸었더니 userId = 1 ( yeonjin ) 을 팔로우하는 사람들이 누구인지 확인할 수 있었다. ( inner join이라 WHERE이나 ON을 둘 중 아무거나 사용해도 상관 없었다 )
