@@ -88,7 +88,7 @@
    ![스크린샷 2023-11-02 05 34 40](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/73b4c01f-4454-4bb4-99d2-8bd9bcf975ca)
 
 
-   2. FOLLWER에 follower, userId( 팔로워가 팔로우 하는 사람 ) 조합 3개 추가 뒤 확인
+   2. FOLLWER에 follower, userId( 팔로워가 팔로우 하는 사람 ) 조합 2개 추가 뒤 확인
    
    ![스크린샷 2023-11-02 07 01 56](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/a36648a2-294d-43f8-8e31-caf929204fe2)
 
