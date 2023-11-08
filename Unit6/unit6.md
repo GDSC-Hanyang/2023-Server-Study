@@ -47,11 +47,15 @@
 
 2. 자신이 설계한 DB와 연동해서 API설계 (CRUD)
    (완료된 내용 켬쳐본 올리기)
+   <img width="1933" alt="image" src="https://github.com/Hueok/2023-Server-Study/assets/124287568/90709906-928d-4ea8-932e-baae6eb0003c">
+   이런식으로 :? <br>
+   js코드를 아직 못 짜겠습니다
 
 <br/>
 
 3. Postman으로 API 테스트
    (완료된 내용 켬쳐본 올리기)
+   코드 미구현으로 인한 테스트 불가 :(
 
 <br/>
 
