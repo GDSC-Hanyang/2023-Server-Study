@@ -21,7 +21,7 @@
    (완료된 내용 켬쳐본 올리기)
 
    Nginx 의 라우팅, 포트포워딩 과정을 이해하는데 도움이 된 글:  
-   https://velog.io/@pinot/nginx-%ED%8F%AC%ED%8A%B8%ED%8F%AC%EC%9B%8C%EB%94%A9%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90
+
    
 <br/>
 
