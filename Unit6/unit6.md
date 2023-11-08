@@ -55,12 +55,16 @@
 
 3. Postman으로 API 테스트
    (완료된 내용 켬쳐본 올리기)
+   
    코드 미구현으로 인한 테스트 불가 :(
 
 <br/>
 
 4. API Sheet 작성
    (완료된 내용 켬쳐본 올리기)
+   <img width="1248" alt="image" src="https://github.com/Hueok/2023-Server-Study/assets/124287568/2036f6ee-45fa-4ebb-8822-a4048a7a2a9a">
+   미완성본
+
   
 
 <br/>
