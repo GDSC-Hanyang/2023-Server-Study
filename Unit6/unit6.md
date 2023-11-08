@@ -23,6 +23,9 @@
 
 2. 자신이 설계한 DB와 연동해서 API설계 (CRUD)
    (완료된 내용 켬쳐본 올리기)
+   - 정확히 어떻게 하는건지 모르겠어서 템플릿 적용한거 API 성공 화면을 첨부
+<img width="477" alt="스크린샷 2023-11-08 오후 6 14 04" src="https://github.com/hyeinj/2023-Server-Study/assets/118713353/a944d771-f060-4f0d-a981-8f72802fcadb">
+
 
 <br/>
 
@@ -35,7 +38,8 @@
 
 4. API Sheet 작성
    (완료된 내용 켬쳐본 올리기)
-  
+   <img width="1058" alt="스크린샷 2023-11-08 오후 7 02 06" src="https://github.com/hyeinj/2023-Server-Study/assets/118713353/c9d4bc45-227a-4a39-b127-e615387b7538">
+
 
 <br/>
 
