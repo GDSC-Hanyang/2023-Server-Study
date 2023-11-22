@@ -18,6 +18,8 @@
 ## ❗️ 7주차 과제
 1. GET 메소드 함수 작성 완료하기
    (fork에 코드 올린 후 PR 날리기)
+   <img width="516" alt="스크린샷 2023-11-22 오후 1 43 54" src="https://github.com/hyeinj/2023-Server-Study/assets/118713353/33717919-0940-417e-94bd-1e89487793dd">
+
    
 <br/>
 
