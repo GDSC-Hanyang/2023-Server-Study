@@ -33,6 +33,7 @@
 
 3. API Sheet 작성
    (완료된 내용 켬쳐본 올리기)
-  
+  <img width="1089" alt="스크린샷 2023-11-22 오후 1 56 21" src="https://github.com/hyeinj/2023-Server-Study/assets/118713353/6a14d2fc-615d-4e65-b419-51b851c76be8">
+
 
 <br/>
