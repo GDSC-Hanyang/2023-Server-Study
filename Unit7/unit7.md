@@ -26,7 +26,7 @@
    - userDao.js : 데이터베이스 직접 만지는 애 / Query 통해 DB 값 직접 변경 / Return = DB 값
 
    - baseResponseStatus.js : isSuccess인지, code는 무엇인지, 같이 전달할 message는 무엇인지 지정하는 곳
-      ex ) SIGNUP_DESCRIPTION_LENGTH : {"isSuccess": false, "code": 2019, "message":"소개는 최대 45자리를 입력해주세요."}
+      - ex ) SIGNUP_DESCRIPTION_LENGTH : {"isSuccess": false, "code": 2019, "message":"소개는 최대 45자리를 입력해주세요."}
 
    ![스크린샷 2023-11-23 04 17 14](https://github.com/yeonjinJoo/2023-Server-Study/assets/102257328/253b080c-2fc4-40a2-9126-1562e751c52f)
 
