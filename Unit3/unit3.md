@@ -14,33 +14,31 @@
 ## ❗️ notion에 키워드 정리 완료 여부
 내가 notion에 키워드를 정리를 완료한 경우 체크표시 해주세요~
 
-- [ ] 키워드 정리 완료
+- [x] 키워드 정리 완료
+이번주 담당한 키워드가 없습니다!
 
 <br>
 
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
-   - 수행한 화면 혹은 내용을 작성해 주세요
-
+<img width="351" alt="image" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/77712822/14f6a3ce-73e8-4544-9444-f010bb66909a">
+- 인스턴스 생성 및 인바운드 규칙 편집
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
-   - 수행한 화면 혹은 내용을 작성해 주세요
-
+- key.pem 파일 권한 변경 후, vscode에서 ssh로 접속
+<img width="279" alt="image" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/77712822/703f78ea-ffa6-458e-9cb8-5840ddc59feb">
 <br/>
 
 3. Nginx 패키지 설치 후 http 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
-
+   
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
-   - 수행한 화면 혹은 내용을 작성해 주세요
-
-<br/>
-
-5. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
-   - 수행한 화면 혹은 내용을 작성해 주세요
+- 가비아 도메인 구입후, route 53 을 통해 ec2와 연결
+<img width="302" alt="image" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/77712822/173927ba-505d-4fe6-a4f3-502c95eff11e">
+<img width="295" alt="image" src="https://github.com/GDSC-Hanyang/2023-Server-Study/assets/77712822/e3a9e1b0-8ec7-4337-a152-abe7b05cb33e">
 
 <br/>
 
