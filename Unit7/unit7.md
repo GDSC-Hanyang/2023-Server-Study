@@ -58,14 +58,4 @@
 <img width="960" alt="KakaoTalk_20231116_023110726_07" src="https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/4eb1612b-660d-4015-b4e7-d9563bc9ba5b">  
 
 
-<br/>
-
-3. API Sheet 작성
-   (완료된 내용 켬쳐본 올리기)
-  
-<img width="960" alt="KakaoTalk_20231116_023110726_09" src="https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/aa079d97-5090-46c3-80a7-4f42512d8518">  
-
-<img width="960" alt="KakaoTalk_20231116_023110726_10" src="https://github.com/HyunminHong619/2023-Server-Study/assets/109195877/ff55ce79-ee7c-473f-abba-d1540a42616b">  
-
-<br/>
 
